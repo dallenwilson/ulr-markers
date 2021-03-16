@@ -9,7 +9,8 @@ A simple repository to store the map marker points to be used with the World Map
 ## Installation
 
 - [Download](https://github.com/dallenwilson/ulr-markers/archive/master.zip) this repository.
-- Extract all the files into `Data\Client` located at the root of the ClassicUO folder.
+- Extract all the files into `Data\Client` located at the root of the ClassicUO folder - Do not include the ulr-markers-master folder.
+- Eg, you want to see 'Data\Client\Common.csv', not 'Data\Client\ulr-markers-master\Common.csv'.
 - Open the World Map or right-click and select `Reload markers`.
 
 If you just want to download the map icons, [click here](https://raw.githubusercontent.com/dallenwilson/ulr-markers/master/MapIcons.zip).
